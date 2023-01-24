@@ -6,5 +6,10 @@ public class FirstClassGit {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public void test() {
+		System.out.println("This is from local repo ");
+	}
 
 }
+ 
